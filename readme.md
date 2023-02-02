@@ -1,8 +1,8 @@
-## Abstract
+## Abstract - Oscar
 
 > No more than 3 sentences that summarize your project. Focus on the very most important aspects. 
 
-## Keywords
+## Keywords - Baltej
 > 3-5 keywords that summarize your project
 
 ## 1. Introduction  - Oscar
@@ -25,5 +25,5 @@
 ## 4. Implications - Elisha
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
-## 5. Challenges & Limitations  
+## 5. Challenges & Limitations - Baltej
 > What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
