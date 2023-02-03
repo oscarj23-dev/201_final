@@ -19,11 +19,12 @@ Shahh, Khushi. “Fast Food Restaurants across US.” Kaggle, 31 Aug. 2021, http
 
 
 ## 3. The Dataset - Oscar
- Find a dataset for your project idea. The dataset must include at least 200 observations (rows) and 5 features (columns), unless you consult with your TA and Prof. Walsh.
+Find a dataset for your project idea. The dataset must include at least 200 observations (rows) and 5 features (columns), unless you consult with your TA and Prof. Walsh.
 * Where did you find the data? Please include a link to the data source
- > * Elflein, John. “Obesity Adults U.S. by State 2021.” Statista, 25 Oct. 2022, https://www.statista.com/statistics/378988/us-obesity-rate-by-state/.  
- > * G, Rakkesh Aravind. “Fast Food Joint Nutrition Values Dataset.” Kaggle, 22 Dec. 2022, https://www.kaggle.com/datasets/rakkesharv/fast-food-joint-nutrition-values-dataset. 
- > * Shahh, Khushi. “Fast Food Restaurants across US.” Kaggle, 31 Aug. 2021, https://www.kaggle.com/datasets/khushishahh/fast-food-restaurants-across-us. 
+> The following datasets were obtained through google dataset search and retrieved from Statista and Kaggle:
+> * Elflein, John. “Obesity Adults U.S. by State 2021.” Statista, 25 Oct. 2022, https://www.statista.com/statistics/378988/us-obesity-rate-by-state/.  
+> * G, Rakkesh Aravind. “Fast Food Joint Nutrition Values Dataset.” Kaggle, 22 Dec. 2022, https://www.kaggle.com/datasets/rakkesharv/fast-food-joint-nutrition-values-dataset. 
+> * Shahh, Khushi. “Fast Food Restaurants across US.” Kaggle, 31 Aug. 2021, https://www.kaggle.com/datasets/khushishahh/fast-food-restaurants-across-us. 
 
 * Who collected the data?
 > In order, CDC, Rakkesh Aravind G and Datafiniti
