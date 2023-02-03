@@ -1,5 +1,5 @@
-## Abstract - Oscar
 
+<<<<<<< Updated upstream
 > No more than 3 sentences that summarize your project. Focus on the very most important aspects. 
 
 ## Keywords - Baltej
@@ -7,6 +7,8 @@
 
 ## 1. Introduction  - Oscar
 > Briefly introduce your project. Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words) 
+=======
+>>>>>>> Stashed changes
 
 ## 2. Related Work  - Kaylina 
 > Our topic is how does the total number of all fast food restaurants in a state affect the obesity rates per state in America. We found three different data sets. The first dataset contains data on food nutrition for fast food restaurants such as Pizza Hut, McDonald’s, Starbucks, etc. It provides information on the fat percentages of each food item on the menu as well as the nutrition facts such as the number of carbohydrates and sugar in a food item. Another data set contained the percentage of adults with obesity in the United States in the year of 2021. This data study was conducted to determine the percentage of adults who self-reported that they are obese, with a body mass index (BMI) of 30.0 or higher. This dataset has information from all 50 states except for Florida.  And we found our last data set on the number of fast food restaurants across the United States. This dataset provides us information on how many fast food restaurants there are in total in every single state. With these data sets, we plan on comparing how the number of fast food restaurants per state is impacting the percentage rate of obesity in adults in that state. 
