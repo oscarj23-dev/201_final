@@ -3,7 +3,7 @@
 > Our topic of research is ‘is there a correlation between obesity rates per state and total fast food restaurants per state in the US’. We plan to further expand this research into seeing if graduation rates and income rates are correlated later on.
 
 ## Keywords - Baltej
-> 3-5 keywords that summarize your project
+> Fastfood, obesity, diets, income, education 
 
 ## 1. Introduction  - Oscar (3-5 questions)
 > Our topic of research is ‘is there a correlation between obesity rates per state and total fast food restaurants per state in the U.S.’ Per the UN, roughly two out of three U.S. adults are overweight or obese (69 percent). We plan to further expand this research into seeing if graduation rates and income rates are correlated down the line. From personal experience, as I saw my older siblings become more educated through college, they began to research what they ate and what they have been eating. This motivated them to eat healthier organic and vegan based products, foregoing meat nearly entirely from their diets. In university you learn to do a lot of research to acquire knowledge, you learn how to find answers that satiate your curiosity, but for those that choose not obtain a post-secondary education, do they learn how to research the best products to consume? Or do they consume the food nearest or easiest to acquire simply out of convenience without researching whats inside the food? Do states with higher concentrations of fast food restaurants tend to have higher obesity rates? Do states with high incomes have higher or lower obesity rates, and what inferences can be made about the results? These are the questions I will be asking throughout this project.
